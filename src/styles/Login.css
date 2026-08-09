@@ -1,0 +1,24 @@
+html,
+body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(243, 229, 212);
+}
+
+.logo {
+  width: 50%;
+}
+
+.form-login {
+  background-color: rgb(229, 135, 106);
+}
+
+@media (min-width: 992px) {
+  .logo {
+    width: 60%;
+  }
+}
